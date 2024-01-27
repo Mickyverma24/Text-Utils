@@ -25,7 +25,7 @@ export default function About(props) {
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div className="accordion-body" style={myStyle}>
-        <p>Hello, Bhenchoo Here</p>
+        <p>Hello, Analyze your Text Here</p>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ export default function About(props) {
     </h2>
     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        <p>Hello,Machoo here.</p>
+        <p>Hello, here.</p>
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@ export default function About(props) {
     </h2>
     <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div className="accordion-body">
-        <p>Hello,Gelcho Here.</p>
+        <p>Hello, Here.</p>
       </div>
     </div>
   </div>
